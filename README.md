@@ -19,4 +19,4 @@
 
 ## 🚀 Como executar
 ```bash
-Python idade-em-dias.py
+python idade-em-dias.py
